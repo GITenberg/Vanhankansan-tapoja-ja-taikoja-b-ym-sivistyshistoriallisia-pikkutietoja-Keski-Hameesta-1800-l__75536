@@ -1,0 +1,32 @@
+_repo: Vanhankansan-tapoja-ja-taikoja-b-ym-sivistyshistoriallisia-pikkutietoja-Keski-Hameesta-1800-l__75536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Böök, A. Th. (Albert Theodor)
+    aliases:
+    - Book, A. Th. (Albert Theodor)
+    - Böök, Albert Theodor
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '56500'
+    url: http://www.gutenberg.org/2009/agents/56500
+    wikipedia: https://fi.wikipedia.org/wiki/Albert_Theodor_B%C3%B6%C3%B6k
+description: ''
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75536'
+language: fi
+pgterms:marc905: 20201212103129bk
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vanhankansan tapoja ja taikoja : $b y.m. sivistyshistoriallisia pikkutietoja
+  Keski-Hämeestä 1800-luvulta'
+url: http://www.gutenberg.org/ebooks/75536
